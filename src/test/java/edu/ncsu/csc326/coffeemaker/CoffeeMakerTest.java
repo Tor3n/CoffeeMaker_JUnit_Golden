@@ -498,5 +498,5 @@ public class CoffeeMakerTest {
 	public void testTostring3() throws InventoryException {
 		coffeeMaker.addInventory("-1", "10", "10", "10");
 	}
-
+//for git
 }
